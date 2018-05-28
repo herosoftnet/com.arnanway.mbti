@@ -1,5 +1,5 @@
-# com_arna_mbbtii
-تست شخصیت،شغل همزاد
+# com.arnanway.mbti
+تست شخصیت،همزاد،شغل
 
 
 ## Privacy Policy
